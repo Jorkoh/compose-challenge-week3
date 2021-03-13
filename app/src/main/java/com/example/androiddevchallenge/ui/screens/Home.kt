@@ -121,6 +121,7 @@ fun HomeContent() {
                 }
                 Spacer(Modifier.height(16.dp))
                 GraphType()
+                Spacer(Modifier.height(16.dp))
                 Image(
                     painter = painterResource(R.drawable.ic_home_illos),
                     contentDescription = null
